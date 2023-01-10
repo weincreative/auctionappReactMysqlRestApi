@@ -13,8 +13,6 @@ A Javascript stack was used for easier and faster deployment, comprised of **Exp
 
 ![l (3)](https://user-images.githubusercontent.com/73662635/200635580-4c026c13-12cf-45b7-85cb-4ac30a77d22f.png)
 
-https://github.com/weincreative/platedetectorpy/blob/master/readmeimages/1.jpg
-
 ## Requirements & Setup
 
 ### Back-end
